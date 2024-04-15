@@ -4,8 +4,7 @@ version: 0.0.1+2
 homepage: https://github.com/youssef-fk/flutter_traceroute/
 
 environment:
-  sdk: '>=2.18.0 <3.0.0'
-  flutter: ">=2.5.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
