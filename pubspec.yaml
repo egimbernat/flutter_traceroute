@@ -41,8 +41,8 @@ flutter:
       android:
         package: com.traceroute.flutter_traceroute
         pluginClass: FlutterTraceroutePlugin
-      ios:
-        pluginClass: FlutterTraceroutePlugin
+#      ios:
+#        pluginClass: FlutterTraceroutePlugin
       # web:
       #   pluginClass: FlutterTracerouteWeb
       #   fileName: flutter_traceroute_web.dart
